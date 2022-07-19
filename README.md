@@ -1,8 +1,6 @@
 ![](https://raw.githubusercontent.com/ayhan/ayhan/main/Hi%20I'm%20Ayhan%20.png)
 <sub><sup>Photo by: Aenami</sup></sub>
 
-## BIO
-
 Hi there, My story started with graphic design. After that, I worked as a front end developer for a long time by learning html, css, js. Now I continue to improve myself as a full stack.
 
 ## Skills
