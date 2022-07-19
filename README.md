@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/ayhan/ayhan/main/Hi%20I'm%20Ayhan%20.png)
-<div style="text-align: right"><sub><sup>Photo by: Aenami</sup></sub></div>
+<p align="right"><sub ><sup>Photo by: Aenami</sup></sub></p>
 
 Hi there, My story started with graphic design. After that, I worked as a front end developer for a long time by learning html, css, js. Now I continue to improve myself as a full stack.
 
