@@ -14,7 +14,7 @@ Hi there, My story started with graphic design. After that, I worked as a front 
 
 ### Continuous Learning
 
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
