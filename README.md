@@ -12,7 +12,7 @@ Hi there, My story started with graphic design. After that, I worked as a front 
 ![Vue](https://img.shields.io/badge/-Vue-000?logo=Vue.js&logoColor=)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 
-### Continuous Learning
+### Interests
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
